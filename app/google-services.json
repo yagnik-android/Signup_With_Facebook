@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289263258363",
+    "project_id": "facebook-login-test-19d3d",
+    "storage_bucket": "facebook-login-test-19d3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289263258363:android:980e826e866e2d1ab73e5e",
+        "android_client_info": {
+          "package_name": "com.example.facebook_login_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289263258363-3lr8g8if1fjb9eiojjlnmuulb0co4cp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlT5JAIGKQhDxFEUP8KhaahkmBINnSyeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289263258363-3lr8g8if1fjb9eiojjlnmuulb0co4cp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
